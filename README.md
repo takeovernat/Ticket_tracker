@@ -4,14 +4,14 @@ Next.js typescript application where you can create tickets, update them as comp
 
 # to Run
 
-clone this repo
+## clone this repo
 
-cd into the repo
+## cd into the repo
 
 and run the commands
 
-npm install or npm i
+`npm install or npm i`
 
 you will have to set up prisma and migrate the models you can follow the instructions at https://www.prisma.io/docs
 
-the run npm run dev
+the run `npm run dev`
